@@ -1,3 +1,5 @@
 Hello Git!
 
 Hello World!
+
+这是hot-fix分支下的代码。
